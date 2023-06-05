@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: 当您准备移动、迁移或克隆文件系统数据时、首先需要确定您拥有的数据。借助BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。  
+---
+= BlueXP迁移报告
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

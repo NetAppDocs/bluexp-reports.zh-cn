@@ -1,0 +1,14 @@
+---
+section: use
+title: 使用BlueXP迁移报告
+entries:
+- title: 您可以使用BlueXP迁移报告执行哪些操作
+  url: "/use/report-overview.html"
+- title: 创建报告
+  url: "/use/report-create.html"
+- title: 查看示例卷报告
+  url: "/use/report-sample.html"
+- title: 启用报告通知
+  url: "/use/report-notifications.html"
+- title: 删除报告
+  url: "/use/report-delete.html"

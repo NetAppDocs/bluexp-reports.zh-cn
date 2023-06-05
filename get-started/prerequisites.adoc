@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are BlueXP migration reports requirements, BlueXP migration reports prerequisites 
+summary: 通过验证对您的环境、网络访问、登录和Web浏览器的支持、开始使用BlueXP迁移报告。 
+---
+= BlueXP迁移报告前提条件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+首先验证您的操作环境、登录、网络访问和Web浏览器是否就绪。
+
+BlueXP迁移报告服务具有以下前提条件：
+
+* 在Cloud Volumes ONTAP Azure NetApp Files、Amazon FSx for NetApp ONTAP或内部工作环境中访问数据LIF
+* 使用ONTAP 9.7或更高版本
+* 在NetApp BlueXP中设置的BlueXP连接器连接到管理LIF。请参见BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["配置BlueXP Connector"]。
+* 标准 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP要求"]
+

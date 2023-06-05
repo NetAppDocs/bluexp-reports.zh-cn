@@ -1,0 +1,16 @@
+---
+section: get-started
+title: 入门
+entries:
+- title: 了解BlueXP迁移报告
+  url: "/get-started/intro.html"
+- title: 前提条件
+  url: "/get-started/prerequisites.html"
+- title: 快速入门
+  url: "/get-started/quick-start.html"
+- title: 设置BlueXP迁移报告
+  url: "/get-started/setup.html"
+- title: 访问BlueXP迁移报告
+  url: "/get-started/login.html"
+- title: 常见问题解答
+  url: "/get-started/faq.html"

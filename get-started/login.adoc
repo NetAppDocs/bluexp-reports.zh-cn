@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, reports service log in 
+summary: 通过访问BlueXP中的服务开始使用BlueXP迁移报告。 
+---
+= 访问BlueXP迁移报告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+可通过基于BlueXP SaaS的用户界面从Web浏览器访问BlueXP。
+
+要登录到BlueXP、您可以使用NetApp 支持站点 凭据、也可以使用电子邮件和密码注册NetApp云登录。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["了解有关登录的更多信息"^]。
+
+.步骤
+. 打开Web浏览器并转到 https://console.bluexp.netapp.com/["BlueXP控制台"^]。
++
+此时将显示NetApp BlueXP登录页面。
+
+. 登录到BlueXP。
+. 执行以下操作之一：
++
+** 从BlueXP左侧导航栏中、选择*存储*>*迁移报告*。
+** 从BlueXP Canvas中、选择您的工作环境。在右侧面板中，选择*Reports*>*View Cluster Reports*。
++
+如果尚未生成任何报告、则会显示登录页面。如果已生成报告、则会显示报告列表。如果您在BlueXP Canvas右侧面板中选择了特定集群、则仅会针对该集群筛选报告。
+
+
+
++
+image:reports-landing.png["此图显示了服务登录页面"]
+
+

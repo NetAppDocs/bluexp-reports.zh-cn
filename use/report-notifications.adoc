@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: use/report-notifications.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 通过BlueXP迁移报告服务、您可以设置通知、以便在生成新报告时向您发出警报。 
+---
+= 启用报告通知
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+使用BlueXP迁移报告服务时、BlueXP页面右上角的BlueXP通知中会显示一条通知。
+
+您还可以设置通知、以便在生成新报告时通过电子邮件提醒用户。为此、您需要选择"信息"通知设置。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*存储*>*画布*。
+. 要查看通知，请选择右上角的通知*Bell*图标。
+. 要启用电子邮件通知、请执行以下操作：
++
+.. 选择*Settings*... 选项，然后选择*警报和通知设置*。
+.. 选择*其他收件人*选项卡。
+.. 在通知列中、通过选择箭头展开行。
+.. 对于通知级别，请选择*Info*。
++
+image:notifications-email-info-option.png["此图显示了\"信息\"的\"通知\"选项设置"]
+
+
+
+

@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 如果某个报告包含您已修复的错误或不再需要该报告、您可能需要将其删除。 
+---
+= 删除报告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果某个报告包含您已修复的错误或不再需要该报告、您可能需要将其删除。您可以删除报告的一个或多个实例。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*存储*>*迁移报告*。
+. 从报告信息板中、选择一个报告。
+. 在报告行中，选择*Actions*… 菜单并选择*删除报告*。
+. 如果存在多个报告实例，请选择要删除的实例，然后选择*Delete*。
++
+image:report-delete-multiple.png["此图显示了可用于删除多个报告的删除页面"]
+
+. 选择*Delete*确认删除。
+

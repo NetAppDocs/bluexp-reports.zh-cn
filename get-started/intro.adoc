@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how BlueXP migration reports works, reports, bluexp 
+summary: 借助BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。 
+---
+= 了解BlueXP迁移报告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+当您准备移动、迁移或克隆文件系统数据时、首先需要确定您拥有的数据。借助BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。有了这些信息、您就会事先知道、您想要使用的流程可以高效成功地处理您的库存。
+
+BlueXP迁移报告服务可显示有关NFS和AWS S3工作环境的信息。
+
+
+
+== BlueXP迁移报告的优势
+
+BlueXP迁移报告服务具有以下优势：
+
+* 提供一个简单的过程来获取您的工作环境的数据保护状态
+* 提供存储环境
+* 减少确定额外存储需求所需的时间
+
+
+
+
+== 您可以使用BlueXP迁移报告执行哪些操作
+
+使用BlueXP迁移报告、您可以完成以下任务：
+
+* 创建报告。
+* 使用"报告分布"图表确定数据如何从一个报告日期更改为另一个报告日期。
+* 启用有关报告生成的电子邮件通知。
+* 删除报告。
+
+
+
+
+== 成本
+
+NetApp不会向您收取使用此服务的费用。
+
+
+
+== 许可
+
+不需要NetApp许可证文件(NLF)。

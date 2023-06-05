@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, reports, storage, inventory, volumes 
+summary: 要使用BlueXP迁移报告、请执行几个步骤进行设置。 
+---
+= 设置BlueXP迁移报告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+您无需配置BlueXP迁移报告服务。BlueXP迁移报告选项会自动启用、并显示在BlueXP左侧导航栏中。

@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: reports faq, frequently asked questions 
+summary: 如果您只是想快速了解问题解答，此常见问题解答会很有帮助。 
+---
+= BlueXP迁移报告的常见问题
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+如果您只是想快速了解问题解答，此常见问题解答会很有帮助。
+
+
+
+== 访问BlueXP迁移报告服务
+
+*BlueXP迁移报告服务URL是什么？*
+
+对于URL、在浏览器中输入： https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] 以访问BlueXP控制台。
+
+*如何设置BlueXP迁移报告？*
+
+BlueXP迁移报告服务不需要进行任何设置。BlueXP左侧导航栏会自动启用BlueXP迁移报告选项。
+
+*我是否需要数据代理？*
+
+在BlueXP复制和同步(Cloud Sync)中、您可能需要数据代理。但是、BlueXP迁移报告服务不需要数据代理。
+
+
+
+== 许可
+
+*使用BlueXP迁移报告是否需要许可证？*
+
+不需要NetApp许可证文件(NLF)。

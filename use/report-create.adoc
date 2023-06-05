@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/report-create.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 借助BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。 
+---
+= 创建报告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您可以创建一个卷报告来显示文件数、目录中的文件数、符号链接、硬链接、最大文件大小、 等等。
+
+每次创建报告时、BlueXP迁移报告服务都会扫描路径并编译数据。使用相同的报告定义、您可以拥有该报告的多个实例。
+
+BlueXP迁移报告服务按卷显示数据。
+
+一次只能生成一个报告。
+
+您也可以下载PDF文件格式的报告。
+
+
+TIP: 所有BlueXP迁移报告操作均列在BlueXP时间线中。要查看时间线，请选择BlueXP *设置*>*时间线*。
+
+.步骤
+. 从BlueXP左侧导航栏中、选择*存储*>*迁移报告*。
+. 选择*创建新报告*。
+. 输入报告名称。
+. 从下拉列表中选择一个工作环境。
++
+只有在BlueXP中处于活动状态且已启用的环境才会显示在工作环境列表中。
+
++
+
+TIP: BlueXP Connector必须能够访问卷的数据LIF、才能访问数据。
+
++
+如果要启用环境、请参见 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required["在BlueXP文档中了解连接器"]。
+
+. 使用*搜索*图标搜索要报告的卷或从列表中进行选择。
+. 选择卷。
+. 选择*创建报告*。
++
+BlueXP迁移报告服务会生成报告并将其列在报告列表中。
+
+. 要显示报告，请选择*Actions*... 选项，然后选择*查看报告*。
+. 要下载报告的PDF文件，请选择*Actions*... 选项并选择*下载报告*。
+. 要生成同一报告的另一个实例，请选择报告行，然后在右侧选择*Add report*。
+

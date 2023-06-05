@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: 'reports what"s new, bluexp' 
+summary: 借助全新的BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。 
+---
+= 新增功能
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+了解BlueXP迁移报告中的新增功能。
+
+
+
+== 2023年6月2日
+
+借助全新的BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。
+
+有了这些信息、您就会事先知道、您想要使用的流程可以高效成功地处理您的库存。
+
+link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html["详细了解BlueXP迁移报告"]。
