@@ -16,14 +16,14 @@ summary: 只需几步即可开始使用NetApp BlueXP迁移报告服务。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["一个"] 查看前提条件
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["确保您的环境满足这些要求"^]。
+link:../get-started/prerequisites.html["确保您的环境满足这些要求"]。
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["三个"] 下一步是什么？
 [role="quick-margin-para"]
 下面是您接下来可能会做的事情。
 
 [role="quick-margin-list"]
-* link:../use/report-create.html["创建报告"^]。
-* link:../use/report-sample.html["查看报告示例"^]。
-* link:../use/report-delete.html["删除报告"^]。
+* link:../use/report-create.html["创建报告"]。
+* link:../use/report-sample.html["查看报告示例"]。
+* link:../use/report-delete.html["删除报告"]。
 
