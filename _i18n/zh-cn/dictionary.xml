@@ -19,14 +19,11 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
   <block id="61c72c04996e2663abc77ce427e2615c" category="list-text">从BlueXP左侧导航栏中、选择*存储*&gt;*迁移报告*。</block>
   <block id="9c10ad779f44c1e68914d4e54b1d95fc" category="list-text">要显示报告，请选择*Actions*... 选项，然后选择*查看报告*。</block>
-  <block id="d92e9fbbaa132a49a57032058333a5dc" category="inline-image-macro">此图显示了示例卷报告的顶部</block>
-  <block id="5823aec417ccd56feda26c5a9f121d7d" category="paragraph"><block ref="5823aec417ccd56feda26c5a9f121d7d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c06108e68e17c6b2b0d54f0677843ee1" category="inline-image-macro">此图显示了一个示例卷报告的中间部分</block>
   <block id="5d4ea628733fb39c199fc8791dbe5c7a" category="paragraph"><block ref="5d4ea628733fb39c199fc8791dbe5c7a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ef0e06ae55d94ca2dfb4babdc5661de7" category="inline-image-macro">此图显示了示例卷报告中间的下一部分</block>
   <block id="f52ca9d2a2d76da39681340edb3cf152" category="paragraph"><block ref="f52ca9d2a2d76da39681340edb3cf152" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2ca60d6a14b06b4b3528c2b47858048" category="list-text">要了解列的含义、请将鼠标悬停在某些信息上。</block>
-  <block id="607e5b212f9088499882214504c86bc4" category="list-text">要以CSV格式查看报告，请选择*Actions*... 选项，然后选择*查看PDF*。</block>
   <block id="20c30cc539c668262bb407e81759802f" category="list-text">查看报告信息：</block>
   <block id="ca72ba0eeff5584e52bd275c2d9df48f" category="list-text">*maximum *&gt;*Total Depth*：卷中目录内嵌套的最大子目录数。在此示例directory/subdirectory2中、深度为2。</block>
   <block id="a7c61ed1c889220336a36635748931f9" category="list-text">*maximum *&gt;*Total Maximum Width*：卷目录中的最大项数。项目是文件、子目录、符号链接或硬链接。</block>
@@ -78,7 +75,6 @@
   <block id="22f65ce1309e30f5306c33ecbe960be4" category="list-text">对于通知级别，请选择*Info*。</block>
   <block id="ab99a4f8307b481f7e7bad3a73fc18c7" category="inline-image-macro">此图显示了"信息"的"通知"选项设置</block>
   <block id="e768fe59b26e945acfb206c5ddc8a846" category="paragraph"><block ref="e768fe59b26e945acfb206c5ddc8a846" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="8536bae122e5715a2a3abe6231b419a7" category="paragraph">您可以创建一个卷报告来显示文件数、目录中的文件数、符号链接、硬链接、最大文件大小、 等等。</block>
   <block id="5eabcb5b1d6fdf7108bd8640e06526aa" category="paragraph">每次创建报告时、BlueXP迁移报告服务都会扫描路径并编译数据。使用相同的报告定义、您可以拥有该报告的多个实例。</block>
   <block id="6d767170892306b24b417164925a8bb5" category="paragraph">BlueXP迁移报告服务按卷显示数据。</block>
   <block id="0648a4f3563a96fcf7d496cf28420c77" category="paragraph">一次只能生成一个报告。</block>
@@ -95,7 +91,6 @@
   <block id="067462e998f421ea8fb1c1da96a65554" category="list-text">选择卷。</block>
   <block id="3b0a91a5ea7b77db2fb83f740b7d1303" category="list-text">选择*创建报告*。</block>
   <block id="867f81ce9171f10118310484e40a2cd5" category="paragraph">BlueXP迁移报告服务会生成报告并将其列在报告列表中。</block>
-  <block id="8e43c284f0d373f4809b4c3f02b72f63" category="list-text">要下载报告的PDF文件，请选择*Actions*... 选项并选择*下载报告*。</block>
   <block id="d6fcb2dbf04ea8d168f189b22905dc57" category="list-text">要生成同一报告的另一个实例，请选择报告行，然后在右侧选择*Add report*。</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">已知限制用于标识此服务版本不支持或无法与之正确交互的平台、设备或功能。</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
@@ -358,4 +353,20 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="d687b97df8e082fb1a95e853c70aa1c2" category="section-title">2023年9月3日</block>
+  <block id="a0c145fadd8b464775a61d2f1a2e0474" category="paragraph">更新后的BlueXP迁移报告服务可更新报告数据。报告现在包括已分配的容量。</block>
+  <block id="c8ee6676f257ec9e4051a81e20e2b86b" category="list-text">在ONTAP中配置的导出策略。导出策略用于定义卷的访问规则。</block>
+  <block id="1e383dea923bfb90b25d365ea346d669" category="inline-image-macro">此图显示了示例卷报告的顶部和总项目选项卡</block>
+  <block id="9f14d85a083361c2913f91d6ae8e5d56" category="paragraph"><block ref="9f14d85a083361c2913f91d6ae8e5d56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="970f8d2fea058058056d787fd2c64959" category="list-text">选择以下任一选项：</block>
+  <block id="c6f9088e2293b9cbc7e61e8735ce4cd8" category="list-text">要查看和下载报告的PDF文件，请选择*Actions*... 选项并选择*下载报告*。</block>
+  <block id="0ddcb2a8f5b6ab59686b7d5eda06c881" category="list-text">要显示所有项目的信息，请选择*项目总数*选项卡。</block>
+  <block id="5cd1136e0d113841c27f47eed7fef071" category="list-text">要仅显示已分配容量的信息，请选择“*已分配容量*”选项卡。</block>
+  <block id="7cd81b2badb8a49443232eba983ab827" category="inline-image-macro">此图显示了示例卷报告的顶部和已分配容量选项卡</block>
+  <block id="306f6523074f5531d21c8da5489a0b28" category="paragraph"><block ref="306f6523074f5531d21c8da5489a0b28" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d935fc1afac8a92ca974555060580961" category="inline-image-macro">此图显示了示例卷分布报告的顶部</block>
+  <block id="1cf0750149f1004c44ae5c6d08324ebc" category="paragraph"><block ref="1cf0750149f1004c44ae5c6d08324ebc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2eda031e57f814ce3091bfeaee3b48a2" category="summary">通过BlueXP迁移报告服务、您可以创建一个卷报告来显示文件数、目录中的文件数、符号链接、硬链接、最大文件大小、 已分配容量等。</block>
+  <block id="e89e178dc7f2cf739c88943d98757406" category="paragraph">您可以创建一个卷报告来显示文件数、目录中的文件数、符号链接、硬链接、最大文件大小、 已分配容量等。</block>
+  <block id="97f84448ed8b3b07f10a92cfa1a38076" category="list-text">要查看分发报告，请从右侧的操作菜单中选择*查看报告分发*。</block>
 </blocks>

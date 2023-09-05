@@ -18,6 +18,7 @@ BlueXP迁移报告服务具有以下前提条件：
 
 * 在Cloud Volumes ONTAP Azure NetApp Files、Amazon FSx for NetApp ONTAP或内部工作环境中访问数据LIF
 * 使用ONTAP 9.7或更高版本
+* 在ONTAP中配置的导出策略。导出策略用于定义卷的访问规则。
 * 在NetApp BlueXP中设置的BlueXP连接器连接到集群管理LIF。集群管理LIF是一个虚拟网络接口、可用于执行集群管理操作。请参见BlueXP文档 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["配置BlueXP Connector"]。
 * 标准 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP要求"]
 
