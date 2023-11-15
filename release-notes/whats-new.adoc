@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: 借助全新的BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。 
+summary: 了解BlueXP迁移报告中的新增功能。 
 ---
 = 新增功能
 :hardbreaks:
@@ -13,6 +13,12 @@ summary: 借助全新的BlueXP迁移报告服务、您可以快速确定存储�
 
 [role="lead"]
 了解BlueXP迁移报告中的新增功能。
+
+
+
+== 2023年11月13日
+
+现在、您可以为使用SMB/CCIFS协议的卷创建报告。
 
 
 

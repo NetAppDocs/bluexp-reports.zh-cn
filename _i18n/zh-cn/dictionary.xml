@@ -96,7 +96,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
   <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">借助全新的BlueXP迁移报告服务、您可以快速确定存储环境中的文件、目录、符号链接、硬链接、文件系统树的深度和广度、最大文件等数量。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新增功能</block>
-  <block id="0a315dc6821559d103066780c255612b" category="paragraph">了解BlueXP迁移报告中的新增功能。</block>
   <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">2023年6月2日</block>
   <block id="d792454ca1593678a5c636322be98be7" category="paragraph">有了这些信息、您就会事先知道、您想要使用的流程可以高效成功地处理您的库存。</block>
   <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">详细了解BlueXP迁移报告</block>
@@ -371,4 +370,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">获得云提供商文件服务支持</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">要获得针对BlueXP及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
+  <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">了解BlueXP迁移报告中的新增功能。</block>
+  <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">2023年11月13日</block>
+  <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">现在、您可以为使用SMB/CCIFS协议的卷创建报告。</block>
 </blocks>
